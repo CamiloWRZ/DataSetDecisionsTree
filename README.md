@@ -15,9 +15,7 @@ Este proyecto implementa un modelo de clasificación utilizando un árbol de dec
 5. [Entrenamiento del modelo de árbol de decisión](#entrenamiento-del-modelo-de-árbol-de-decisión)
 6. [Evaluación del modelo](#evaluación-del-modelo)
 7. [Visualización del árbol de decisión](#visualización-del-árbol-de-decisión)
-8. [Notas](#notas)
-9. [Contribuciones](#contribuciones)
-10. [Licencia](#licencia)
+
 
 ## Preparación del Entorno
 
